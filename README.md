@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Joshua Nyambane
-- 👀 I’m interested in web development & Game development
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in web development, Game development & Cyber Security
+- 🌱 I’m currently learning Sofware engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Football & video games
 
 <!---
 jNyambane/jNyambane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
